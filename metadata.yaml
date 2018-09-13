@@ -1,0 +1,43 @@
+_repo: The-Girls-From-Earth_51268
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emshwiller, Edmund A.
+    - Emsh
+    - Emsh, Ed
+    - Alexander, Ed
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Robinson, Frank M.
+    alias: Robinson, Frank Malcolm
+    birthdate: 1926
+    deathdate: 2014
+    gutenberg_agent_id: '34076'
+    url: http://www.gutenberg.org/2009/agents/34076
+    wikipedia: http://en.wikipedia.org/wiki/Frank_M._Robinson
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space colonies -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Girls From Earth
+url: http://www.gutenberg.org/ebooks/51268
